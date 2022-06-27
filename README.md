@@ -2,7 +2,7 @@
 
 I am passionate about programming and its uses. Striving to learn self-taught. I'm currently studying engineering at the [Universidad Católica de Chile](https://uc.cl/). 
 
-I program in Python <img height="13" width="13" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/165px-Python-logo-notext.svg.png" /> and Javascript <img height="13" width="13" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" />  but I am constantly learning and creating innovative projects.
+I code in Python <img height="13" width="13" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/165px-Python-logo-notext.svg.png" /> and Javascript <img height="13" width="13" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" />  but I am constantly learning and creating innovative projects.
 ## Tools & Languages
 <code><img title="Python" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img title="Javascript" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
