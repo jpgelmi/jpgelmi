@@ -14,4 +14,4 @@ I code in Python <img height="13" width="13" src="https://upload.wikimedia.org/w
 
 <div align="center">
   <img src="https://metrics.lecoq.io/jpgelmi?template=classic&config.timezone=America%2FSantiago"></img>
-</div>
+</div> 
